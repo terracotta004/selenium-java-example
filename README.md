@@ -46,6 +46,22 @@ Replace `FormControls` with any demo class above. Public practice sites require
 internet access and their markup may change. A failed verification throws an
 exception instead of printing a success message.
 
+## Run directly in VS Code
+
+Alternatively, run each demo directly in VS Code using its launch configuration:
+
+1. Open the repository root folder in VS Code and install the recommended
+   **Extension Pack for Java**.
+2. Open **Run and Debug** (`Ctrl+Shift+D`).
+3. Select the class's configuration, such as **Run Selenium App - FormControls**,
+   from the dropdown. These configurations are defined in `.vscode/launch.json`.
+4. Press **F5** to debug with breakpoints, or **Ctrl+F5** to run without debugging.
+
+You can also open a demo's `.java` file and click **Run** or **Debug** above its
+`main` method. Use the saved launch configuration when you want the configured
+working directory (`example`) and integrated terminal; this keeps generated
+screenshots under `example/target/screenshots`.
+
 ## Checks and formatting
 
 Run `mvn test` from `example` to compile the demos and run the existing unit test.
