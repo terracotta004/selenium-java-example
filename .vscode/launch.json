@@ -3,6 +3,15 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Run Selenium App - DatePickerDemo",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.DatePickerDemo",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
       "name": "Run Selenium App - LocatorsName",
       "request": "launch",
       "mainClass": "solutions.underwood.selenium.LocatorsName",
@@ -24,6 +33,96 @@
       "name": "Run Selenium App - CloseBrowser",
       "request": "launch",
       "mainClass": "solutions.underwood.selenium.CloseBrowser",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - LocatorsCss",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.LocatorsCss",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - FormControls",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.FormControls",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - DropdownSelect",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.DropdownSelect",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - ExplicitWaits",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.ExplicitWaits",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - MouseActions",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.MouseActions",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - AlertHandling",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.AlertHandling",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - FrameSwitching",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.FrameSwitching",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - WindowSwitching",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.WindowSwitching",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - ScreenshotCapture",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.ScreenshotCapture",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - FileUpload",
+      "request": "launch",
+      "mainClass": "solutions.underwood.selenium.FileUpload",
       "projectName": "SeleniumJava",
       "cwd": "${workspaceFolder}/example",
       "console": "integratedTerminal"
