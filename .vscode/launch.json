@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Selenium App - LocatorsName",
+      "request": "launch",
+      "mainClass": "solutions.underwood.LocatorsName",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App",
+      "request": "launch",
+      "mainClass": "solutions.underwood.App",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Selenium App - CloseBrowser",
+      "request": "launch",
+      "mainClass": "solutions.underwood.CloseBrowser",
+      "projectName": "SeleniumJava",
+      "cwd": "${workspaceFolder}/example",
+      "console": "integratedTerminal"
+    }
+  ]
+}
