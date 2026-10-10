@@ -5,7 +5,7 @@
       "type": "java",
       "name": "Run Selenium App - LocatorsName",
       "request": "launch",
-      "mainClass": "solutions.underwood.LocatorsName",
+      "mainClass": "solutions.underwood.selenium.LocatorsName",
       "projectName": "SeleniumJava",
       "cwd": "${workspaceFolder}/example",
       "console": "integratedTerminal"
@@ -14,7 +14,7 @@
       "type": "java",
       "name": "Run Selenium App",
       "request": "launch",
-      "mainClass": "solutions.underwood.App",
+      "mainClass": "solutions.underwood.selenium.App",
       "projectName": "SeleniumJava",
       "cwd": "${workspaceFolder}/example",
       "console": "integratedTerminal"
@@ -23,7 +23,7 @@
       "type": "java",
       "name": "Run Selenium App - CloseBrowser",
       "request": "launch",
-      "mainClass": "solutions.underwood.CloseBrowser",
+      "mainClass": "solutions.underwood.selenium.CloseBrowser",
       "projectName": "SeleniumJava",
       "cwd": "${workspaceFolder}/example",
       "console": "integratedTerminal"

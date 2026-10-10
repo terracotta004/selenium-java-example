@@ -1,4 +1,4 @@
-package solutions.underwood;
+package solutions.underwood.selenium;
 
 import java.time.Duration;
 import org.openqa.selenium.By;

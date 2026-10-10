@@ -1,4 +1,4 @@
-package solutions.underwood;
+package solutions.underwood.selenium;
 
 import static org.junit.Assert.assertTrue;
 
